@@ -1,3 +1,0 @@
-# GitHub Pages skips dot-folders unless told otherwise; iOS reads
-# /.well-known/apple-app-site-association to trust the app's universal links.
-include: [".well-known"]
