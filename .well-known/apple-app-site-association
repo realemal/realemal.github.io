@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["67Y56ALD7B.com.realemal.safetospend"],
+        "components": [
+          { "/": "/plaid", "comment": "Plaid OAuth return (bank sign-in)" },
+          { "/": "/plaid/*", "comment": "Plaid OAuth return (bank sign-in)" }
+        ]
+      }
+    ]
+  }
+}
